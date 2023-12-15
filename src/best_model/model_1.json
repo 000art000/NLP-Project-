@@ -1,0 +1,12 @@
+{
+    "score": 0.5227055549621582,
+    "params": {
+        "learning_rate": 0.001,
+        "embedding_dim": 64,
+        "num_layers_enc": 8,
+        "num_heads": 8,
+        "num_layers_dec": 4,
+        "dropout": 0.2,
+        "lambda_l": 0.001
+    }
+}
